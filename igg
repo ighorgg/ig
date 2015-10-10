@@ -5,8 +5,8 @@
 
   <title>BoB - Best of Both</title>
   <meta name="description" content="Watch Youtube streams with the delightful Twitch chat!">
-  <meta name="author" content="Andres Perez">
-  <link rel="shortcut icon" type="image/png" href="/bob.png" />
+  <meta name="author" content="Ighor Gustavo">
+  <link rel="shortcut icon" type=" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
   <style type="text/css">
     html {
@@ -49,7 +49,7 @@
     <div class="container" id="optionsContainer">
       <div class="navbar-header">
         <a class="navbar-brand">
-          <img src="bob-nav.png" alt="BoB" id="navLogo" />
+          <img src="bob-nav.png" alt="iG" id="navLogo" />
         </a>
       </div>
       <div id="optionsMenu" class="collapse navbar-collapse">
